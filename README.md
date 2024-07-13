@@ -17,15 +17,7 @@ Neste projeto vou replicar duas páginas já criadas durante o curso com a sampl
 <br>
 
 ### Paginas de relatório referente ao desafio de projeto:
-
-### Página 1: 
-![page_1](https://#)
-
-
-### Página 2: 
-![page_2](https://#)
-
-
-### Página 3: 
-![page_3](https://#)
+### Página 1:![page_1](https://github.com/fsousa-hub/desafio-analytics-data-powerbi/blob/main/Pagina1.png?raw=true)
+### Página 2:![page_2](https://github.com/fsousa-hub/desafio-analytics-data-powerbi/blob/main/Pagina%202.png?raw=true)
+### Página 3:![page_3](https://github.com/fsousa-hub/desafio-analytics-data-powerbi/blob/main/Pagina%203.png?raw=true)
 
